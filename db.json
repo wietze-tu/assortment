@@ -1,0 +1,60 @@
+{
+	"assortment": [{
+			"id": "1",
+			"color":"green",
+			"title": "Electrotechniek",
+			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
+			"img":"assortment-electrotechniek.png",
+			"url": "products"
+		},
+		{
+			"id": "2",
+			"color":"red",
+			"title": "verwarming & klimaat",
+			"description": "Functioneel, design, woningbouw of utiliteit, Technische Unie levert een compleet assortiment verwarming en klimaat techniek",
+			"img":"assortment-gereedschap.png",
+			"url": "#"
+		},
+		{
+			"id": "3",
+			"color":"aqua",
+			"title": "Sanitair",
+			"description": "Luxe badmeubels, aangepast sanitair, functionele inrichting van sanitaire ruimte. technische Unie heeft een zeer breed assortiment",
+			"img":"assortment-sanitair.png",
+			"url": "#"
+		},
+		{
+			"id": "4",
+			"color":"blue",
+			"title": "Gereedschap",
+			"description": "Technische Unie levert gereedschap voor de elektro, sanitair- en verwarmingsmonteur en voor de industriële gebruiker.",
+			"img":"assortment-verwarming.png",
+			"url": "#"
+		},
+		{
+			"id": "5",
+			"color":"purple",
+			"title": "Verlichting",
+			"description": "Van energiebesparende led-verlichting tot armatuur en van buitenlamp tot noodverlichting, Technische Unie heeft het in huis.",
+			"img":"assortment-verlichting.png",
+			"url": "#"
+		},
+		{
+			"id": "6",
+			"color":"orange",
+			"title": "Consumentenproducten",
+			"description": "Technische Unie levert consumentenartikelen, van lcd-tv tot wasmachine, van inbouwapparatuur tot batterijen.",
+			"img":"assortment-consumenten.png",
+			"url": "#"
+		},
+		{
+			"id": "7",
+			"color":"yellow",
+			"title": "Persoonlijke beschermingsmiddelen",
+			"description": "Technische Unie levert persoonlijke beschermingsmiddelen. Van een eenvoudig oordopje tot een op sterkte geslepen veiligheidsbril.",
+			"img":"assortment-bescherming.png",
+			"url": "#"
+		}
+	]
+
+}
