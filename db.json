@@ -1,59 +1,319 @@
 {
 	"assortment": [{
 			"id": "1",
-			"color":"green",
+			"color": "green",
 			"title": "Electrotechniek",
 			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
-			"img":"assortment-electrotechniek.png",
-			"url": "products"
+			"img": "assortment-electrotechniek.png",
+			"url": "products",
+			"child": [{
+					"id": "1",
+					"title": "Data, communicatie & (brand)beveiliging",
+					"img": "DB.jpg",
+					"url": "#",
+					"child": [{
+							"id": "1",
+							"title": "Actie, communicatie & (brand)beveiliging",
+							"img": "2147483342.jpg"
+						}, {
+							"id": "2",
+							"title": "Antennes",
+							"url": "#",
+							"img": "2147483617.jpg"
+						},
+						{
+							"id": "3",
+							"title": "Brandbeveiliging",
+							"url": "#",
+							"img": "2147483449.jpg"
+						},
+						{
+							"id": "4",
+							"title": "Camera observatiesysteem",
+							"url": "#",
+							"img": "2147483447.jpg"
+						},
+						{
+							"id": "5",
+							"title": "Communicatie apperatuur",
+							"url": "#",
+							"img": "2147483615.jpg"
+						},
+						{
+							"id": "6",
+							"title": "Datanetwerkmaterialen",
+							"url": "#",
+							"img": "2147483461.jpg"
+						},
+						{
+							"id": "7",
+							"title": "Deur (video) intercom",
+							"url": "#",
+							"img": "2147483441.jpg"
+						},
+						{
+							"id": "8",
+							"title": "Deurmagneet en toebehoren",
+							"url": "#",
+							"img": "2147483448.jpg"
+						},
+						{
+							"id": "9",
+							"title": "Doorvoeringen",
+							"url": "#",
+							"img": "2147483613.jpg"
+						}
+					]
+				},
+				{
+					"id": "2",
+					"title": "Draad & Kabel",
+					"img": "DK.jpg",
+					"url": "#",
+					"child": [{
+							"id": "1",
+							"title": "Aardingsmaterialen",
+							"url": "#",
+							"img": "2147483618.jpg"
+						}, {
+							"id": "2",
+							"title": "Actie Draad & Kabel",
+							"url": "#",
+							"img": "2147483417.jpg"
+						},
+						{
+							"id": "3",
+							"title": "Bliksembeveiligingsmaterialen",
+							"url": "#",
+							"img": "2147483345.jpg"
+						},
+						{
+							"id": "4",
+							"title": "Draden en snoeren",
+							"url": "#",
+							"img": "2147483612.jpg"
+						},
+						{
+							"id": "5",
+							"title": "Energiekabels",
+							"url": "#",
+							"img": "2147483610.jpg"
+						},
+						{
+							"id": "6",
+							"title": "Energiekabels, hoogspanning",
+							"url": "#",
+							"img": "2147483346.jpg"
+						},
+						{
+							"id": "7",
+							"title": "Informatie- en signaalkabels",
+							"url": "#",
+							"img": "2147483609.jpg"
+						}
+					]
+				},
+				{
+					"id": "3",
+					"title": "Industriële Elektrotechniek",
+					"img": "IE.jpg",
+					"url": "#",
+					"child": []
+				},
+				{
+					"id": "4",
+					"title": "Kabeldraagsystemen",
+					"img": "KD.jpg",
+					"url": "#",
+					"child": []
+				},
+				{
+					"id": "5",
+					"title": "Pneumatics",
+					"img": "PN.jpg",
+					"url": "#",
+					"child": []
+				},
+				{
+					"id": "6",
+					"title": "Schakel- & stekermateriaal",
+					"img": "SS.jpg",
+					"url": "#",
+					"child": []
+				},
+				{
+					"id": "6",
+					"title": "Verdeelinrichtingen & e-Mobility",
+					"img": "VE.jpg",
+					"url": "#",
+					"child": []
+				}
+			]
 		},
 		{
 			"id": "2",
-			"color":"red",
+			"color": "red",
 			"title": "verwarming & klimaat",
 			"description": "Functioneel, design, woningbouw of utiliteit, Technische Unie levert een compleet assortiment verwarming en klimaat techniek",
-			"img":"assortment-gereedschap.png",
-			"url": "#"
+			"img": "assortment-gereedschap.png",
+			"url": "#",
+			"child": [{
+					"id": "1",
+					"title": "Klimaatbeheersing",
+					"img": "KB.jpg",
+					"url": "#",
+					"child": [{
+							"id": "1",
+							"title": "Actie, Klimaatbeheersing",
+							"url": "#",
+							"img": "2147483393.jpg"
+						}, {
+							"id": "2",
+							"title": "Airconditioning",
+							"url": "#",
+							"img": "2147483647.jpg"
+						},
+						{
+							"id": "3",
+							"title": "Centrale ventilatiesysteem",
+							"url": "#",
+							"img": "2147483499.jpg"
+						},
+						{
+							"id": "4",
+							"title": "Dakventilatoren",
+							"url": "#",
+							"img": "2147483498.jpg"
+						},
+						{
+							"id": "5",
+							"title": "Huishoudelijke ventilatoren",
+							"url": "#",
+							"img": "2147483497.jpg"
+						},
+						{
+							"id": "6",
+							"title": "Luchtgordijnen",
+							"url": "#",
+							"img": "2147483496..jpg"
+						},
+						{
+							"id": "7",
+							"title": "Luchtverwarming/-koeling",
+							"url": "#",
+							"img": "2147483495.jpg"
+						},
+						{
+							"id": "8",
+							"title": "Regel-, brandkleppen en geluiddempers",
+							"url": "#",
+							"img": "2147483355.jpg"
+						},
+						{
+							"id": "9",
+							"title": "Regelaars ventilatie utiliteit",
+							"url": "#",
+							"img": "2147483493.jpg"
+						}
+					]
+				},
+				{
+					"id": "2",
+					"title": "Leidingsystemen & buizen",
+					"img": "LS.jpg",
+					"url": "#",
+					"child": [{
+							"id": "1",
+							"title": "Kunststof (meerlagen) buis",
+							"url": "#",
+							"img": "2147483354.jpg"
+						}, {
+							"id": "2",
+							"title": "Las-, draad-, groef- en flensfittingen",
+							"url": "#",
+							"img": "2147483641.jpg"
+						},
+						{
+							"id": "3",
+							"title": "Metalenbuis",
+							"url": "#",
+							"img": "2147483646.jpg"
+						},
+						{
+							"id": "4",
+							"title": "Soldeer-, knel-, pers-, schuif- en steekkoppelingen",
+							"url": "#",
+							"img": "2147483353.jpg"
+						},
+						{
+							"id": "5",
+							"title": "Thermische isolatie",
+							"url": "#",
+							"img": "2147483625.jpg"
+						}
+					]
+				},
+				{
+					"id": "3",
+					"title": "Meet- & regelapparatuur",
+					"img": "MR.jpg",
+					"url": "#",
+					"child": []
+				},
+				{
+					"id": "4",
+					"title": "Verwarming",
+					"img": "CV.jpg",
+					"url": "#",
+					"child": []
+				}
+			]
 		},
 		{
 			"id": "3",
-			"color":"aqua",
+			"color": "aqua",
 			"title": "Sanitair",
 			"description": "Luxe badmeubels, aangepast sanitair, functionele inrichting van sanitaire ruimte. technische Unie heeft een zeer breed assortiment",
-			"img":"assortment-sanitair.png",
-			"url": "#"
+			"img": "assortment-sanitair.png",
+			"url": "#",
+			"child": []
+
 		},
 		{
 			"id": "4",
-			"color":"blue",
+			"color": "blue",
 			"title": "Gereedschap",
-			"description": "Technische Unie levert gereedschap voor de elektro, sanitair- en verwarmingsmonteur en voor de industriële gebruiker.",
-			"img":"assortment-verwarming.png",
-			"url": "#"
+			"description": "Technische Unie levert gereedschap voor de elektro, sanitair- en verwarmingsmonteur en voor de industriĂ«le gebruiker.",
+			"img": "assortment-verwarming.png",
+			"url": "#",
+			"child": []
 		},
 		{
 			"id": "5",
-			"color":"purple",
+			"color": "purple",
 			"title": "Verlichting",
 			"description": "Van energiebesparende led-verlichting tot armatuur en van buitenlamp tot noodverlichting, Technische Unie heeft het in huis.",
-			"img":"assortment-verlichting.png",
-			"url": "#"
+			"img": "assortment-verlichting.png",
+			"url": "#",
+			"child": []
 		},
 		{
 			"id": "6",
-			"color":"orange",
+			"color": "orange",
 			"title": "Consumentenproducten",
 			"description": "Technische Unie levert consumentenartikelen, van lcd-tv tot wasmachine, van inbouwapparatuur tot batterijen.",
-			"img":"assortment-consumenten.png",
-			"url": "#"
+			"img": "assortment-consumenten.png",
+			"url": "#",
+			"child": []
 		},
 		{
 			"id": "7",
-			"color":"yellow",
+			"color": "yellow",
 			"title": "Persoonlijke beschermingsmiddelen",
 			"description": "Technische Unie levert persoonlijke beschermingsmiddelen. Van een eenvoudig oordopje tot een op sterkte geslepen veiligheidsbril.",
-			"img":"assortment-bescherming.png",
-			"url": "#"
+			"img": "assortment-bescherming.png",
+			"url": "#",
+			"child": []
 		}
 	]
 
