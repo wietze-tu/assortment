@@ -6,8 +6,9 @@
 			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
 			"img": "assortment-electrotechniek.png",
 			"url": "products",
-			"child": [{
-					"id": "13",
+			"child": {
+					"13": {}
+				
 					"title": "Data, communicatie & (brand)beveiliging",
 					"img": "DB.jpg",
 					"url": "#",
@@ -315,6 +316,67 @@
 			"url": "#",
 			"child": []
 		}
-	]
+	],
+	"assorttest": [{
+		"id": "1",
+		"color": "green",
+		"title": "Electrotechniek",
+		"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
+		"img": "assortment-electrotechniek.png",
+		"url": "products",
+		"child": {
+			"13": {
+				"title": "Data, communicatie & (brand)beveiliging",
+				"img": "DB.jpg",
+				"url": "#",
+				"child": {
+					"131": {
+						"title": "Actie, communicatie & (brand)beveiliging",
+						"img": "2147483342.jpg"
+					},
+					"132": {
+						"title": "Antennes",
+						"url": "#",
+						"img": "2147483617.jpg"
+					},
+					"133": {
+						"title": "Brandbeveiliging",
+						"url": "#",
+						"img": "2147483449.jpg"
+					},
+					"134": {
+						"title": "Camera observatiesysteem",
+						"url": "#",
+						"img": "2147483447.jpg"
+					},
+					"135": {
+						"title": "Communicatie apperatuur",
+						"url": "#",
+						"img": "2147483615.jpg"
+					},
+					"136": {
+						"title": "Datanetwerkmaterialen",
+						"url": "#",
+						"img": "2147483461.jpg"
+					},
+					"137": {
+						"title": "Deur (video) intercom",
+						"url": "#",
+						"img": "2147483441.jpg"
+					},
+					"138": {
+						"title": "Deurmagneet en toebehoren",
+						"url": "#",
+						"img": "2147483448.jpg"
+					},
+					"139": {
+						"title": "Doorvoeringen",
+						"url": "#",
+						"img": "2147483613.jpg"
+					}
+				}
+			}
+		}
+	}]
 
 }
