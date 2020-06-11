@@ -304,7 +304,26 @@
 			"description": "Technische Unie levert consumentenartikelen, van lcd-tv tot wasmachine, van inbouwapparatuur tot batterijen.",
 			"img": "assortment-consumenten.png",
 			"url": "#",
-			"child": []
+			"child": [{
+					"id": "61",
+					"title": "Consumentenproducten",
+					"img": "CP.jpg",
+					"url": "#",
+					"child": [{
+							"id": "611",
+							"title": "beeld & geluid",
+							"url": "#",
+							"img": "22147483573.jpg", 
+							"child": [{
+								"id": "6111",
+								"title": "Accessoire Hotel televisie",
+								"url": "#",
+								"img": "1899998718.jpg"
+							}]
+							
+						}]
+					}]
+						
 		},
 		{
 			"id": "7",
