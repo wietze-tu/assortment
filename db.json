@@ -6,6 +6,7 @@
 			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
 			"img": "assortment-electrotechniek.png",
 			"url": "products",
+			"html": "<h2 class=\"fg-white\">AboutUs</h2><p class=\"fg-white\">developing and supporting complex IT solutions.Touchingmillions of lives world wide by bringing in innovative technology </p>",
 			"child": [{
 					"id": "13",
 					"title": "Data, communicatie & (brand)beveiliging",
