@@ -6,32 +6,37 @@
 			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
 			"img": "assortment-electrotechniek.png",
 			"url": "products",
-			"html": "<h2 class=\"fg-white\">AboutUs</h2><p class=\"fg-white\">developing and supporting complex IT solutions.Touchingmillions of lives world wide by bringing in innovative technology </p>",
+			"html": "<p>Van elektrotechnische installatiematerialen tot Verlichting, van datacommunicatie tot beveiliging: Technische Unie heeft het in huis. Ons assortiment elektrotechniek is zeer groot. Ook voor industriële toepassing leveren wij een brede range aan producten en fabricaten.<p><strong>Ons assortiment elektrotechniek</strong></p><p>Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:</p><ul><li>Installatiematerialen</li><li>Datacommunicatie & beveiliging</li><li>Verlichting</li><li>industriële elektrotechniek</li><li>Draad, kabel & kabeldraagystemen</li></ul><p>In onze webshop kunt u bovendien zoeken op afbeeldingen of uw zoekopdracht met zoekfilters verfijnen.</p><p><strong>Persoonlijk advies</strong></p><p>Heeft u vragen over onze producten en diensten op het gebied van elektrotechniek? Neem dan contact op met het verkoopkantoor. Onze E-specialisten staan voor u klaar met een professioneel advies. Zij adviseren u ook graag over energiezuinige toepassingen.</P>",
 			"child": [{
 					"id": "13",
 					"title": "Data, communicatie & (brand)beveiliging",
 					"img": "DB.jpg",
 					"url": "#",
+					"showtext": true,
 					"child": [{
 							"id": "1",
 							"title": "Actie, communicatie & (brand)beveiliging",
 							"img": "2147483342.jpg",
+							"showtext": true,
 							"child": [{
 								"id": "131",
 								"title": "Accessoire comunicatie",
 								"url": "#",
+								"showtext": false,
 								"img": "1899998718.jpg"
 							},
 								 {
 								"id": "132",
 								"title": "Accessoire comunicatie 1",
 								"url": "#",
+								"showtext": false,
 								"img": "1899998718.jpg"
 							},
 								 {
 								"id": "133",
 								"title": "Accessoire comunicatie 2",
 								"url": "#",
+								"showtext": false,
 								"img": "1899998718.jpg"
 							}]
 						}, {
