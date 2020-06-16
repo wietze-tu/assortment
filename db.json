@@ -19,26 +19,27 @@
 							"img": "2147483342.jpg",
 							"showtext": true,
 							"child": [{
-								"id": "131",
-								"title": "Accessoire comunicatie",
-								"url": "#",
-								"showtext": false,
-								"img": "1899998718.jpg"
-							},
-								 {
-								"id": "132",
-								"title": "Accessoire comunicatie 1",
-								"url": "#",
-								"showtext": false,
-								"img": "1899998718.jpg"
-							},
-								 {
-								"id": "133",
-								"title": "Accessoire comunicatie 2",
-								"url": "#",
-								"showtext": false,
-								"img": "1899998718.jpg"
-							}]
+									"id": "131",
+									"title": "Accessoire comunicatie",
+									"url": "#",
+									"showtext": false,
+									"img": "1899998718.jpg"
+								},
+								{
+									"id": "132",
+									"title": "Accessoire comunicatie 1",
+									"url": "#",
+									"showtext": false,
+									"img": "1899998718.jpg"
+								},
+								{
+									"id": "133",
+									"title": "Accessoire comunicatie 2",
+									"url": "#",
+									"showtext": false,
+									"img": "1899998718.jpg"
+								}
+							]
 						}, {
 							"id": "2",
 							"title": "Antennes",
@@ -181,6 +182,7 @@
 			"description": "Functioneel, design, woningbouw of utiliteit, Technische Unie levert een compleet assortiment verwarming en klimaat techniek",
 			"img": "assortment-gereedschap.png",
 			"url": "#",
+			"html": "<p>Of u nu een designradiator zoekt of een circulatiepomp, een convector of een CV-ketel; Technische Unie heeft het. Wij leveren een compleet assortiment producten voor verwarming en klimaattechniek. Van functioneel tot design en van woningbouw tot utiliteit, voor elke situatie hebben wij het juiste product. Zelfs voor zonnepanelen kunt u bij ons terecht.</p><p><strong>Een overzichtelijk aanbod</strong>Binnen ons assortiment verwarming en klimaattechniek vindt producten voor:</p><li>Het opwekken van warmte, zoals CV-ketels, boilers, geisers en zonnepanelen</li><ul><li>Het afgeven van warmte, zoals radiatoren, convectoren en vloerverwarming</li><li>Het verplaatsen van warmte, zoals een rookgasafvoer of circulatiepompen</li><li>Alle installatiematerialen en onderdelen die u nodig heeft voor montage</li></ul> <p>In onze webshop kunt u bovendien zoeken op afbeeldingen of uw zoekopdracht met zoekfilters verfijnen. En heeft u vragen? Dan kunt u contact opnemen met één van de klimaatspecialisten van uw verkoopkantoor.</p><p><strong>Energie besparen</strong><br/>Duurzaamheid is een belangrijk thema, met name in de verwarming en klimaattechniek. De vraag naar duurzame, energiezuinige producten en oplossingen groeit snel.<p><p>In onze webshop kunt u met één druk op de knop de duurzame kenmerken van ieder product bekijken, zoals energiezuinigheid. Ook kunt u de resultaten van uw zoekopdracht vergelijken op duurzaamheidskenmerken. Door in de webshop het filter duurzaam aan te vinken bij uw zoekopdracht, worden alleen duurzame producten getoond.</p><p><strong>Persoonlijk advies</strong><br/>Heeft u vragen onze producten en diensten op het gebied van verwarming en klimaattechniek? Neem dan contact op met uw verkoopkantoor. Onze klimaatspecialisten staan voor u klaar met een professioneel advies. Zij staan in direct contact met onze leveranciers en helpen u graag bij de keuze voor het juiste product.<p>",
 			"child": [{
 					"id": "1",
 					"title": "Klimaatbeheersing",
@@ -329,25 +331,25 @@
 			"img": "assortment-consumenten.png",
 			"url": "#",
 			"child": [{
-					"id": "61",
-					"title": "Consumentenproducten",
-					"img": "CP.jpg",
+				"id": "61",
+				"title": "Consumentenproducten",
+				"img": "CP.jpg",
+				"url": "#",
+				"child": [{
+					"id": "611",
+					"title": "beeld & geluid",
 					"url": "#",
+					"img": "2147483573.jpg",
 					"child": [{
-							"id": "611",
-							"title": "beeld & geluid",
-							"url": "#",
-							"img": "2147483573.jpg", 
-							"child": [{
-								"id": "6111",
-								"title": "Accessoire Hotel televisie",
-								"url": "#",
-								"img": "1899998718.jpg"
-							}]
-							
-						}]
+						"id": "6111",
+						"title": "Accessoire Hotel televisie",
+						"url": "#",
+						"img": "1899998718.jpg"
 					}]
-						
+
+				}]
+			}]
+
 		},
 		{
 			"id": "7",
