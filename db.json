@@ -190,6 +190,7 @@
 					"title": "Klimaatbeheersing",
 					"img": "KB.jpg",
 					"url": "#",
+					"showAssortmentText":true,
 					"child": [{
 							"id": "1",
 							"title": "Actie, Klimaatbeheersing",
@@ -250,6 +251,7 @@
 					"title": "Leidingsystemen & buizen",
 					"img": "LS.jpg",
 					"url": "#",
+					"showAssortmentText":false,
 					"child": [{
 							"id": "1",
 							"title": "Kunststof (meerlagen) buis",
