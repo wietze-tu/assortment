@@ -190,7 +190,7 @@
 					"title": "Klimaatbeheersing",
 					"img": "KB.jpg",
 					"url": "#",
-					"showAssortmentText":true,
+					"showAssortmentText":false,
 					"child": [{
 							"id": "1",
 							"title": "Actie, Klimaatbeheersing",
