@@ -6,7 +6,7 @@
 			"description": "Ons aanbod elektrotechniek vindt u overzichtelijk weergegeven op onze website. U vindt bij ons een ruime keuze aan:",
 			"img": "assortment-electrotechniek.png",
 			"url": "products",
-			"showtext": "assortmentOverviewElectroText", 
+			"assortmentText": "assortmentOverviewElectroText", 
 			"child": [{
 					"id": "13",
 					"title": "Data, communicatie & (brand)beveiliging",
@@ -182,7 +182,7 @@
 			"description": "Functioneel, design, woningbouw of utiliteit, Technische Unie levert een compleet assortiment verwarming en klimaat techniek",
 			"img": "assortment-gereedschap.png",
 			"url": "#",
-			"html": "assortmentOverviewKabelText",
+			"assortmentText": "assortmentOverviewKabelText",
 			"child": [{
 					"id": "1",
 					"title": "Klimaatbeheersing",
@@ -302,6 +302,7 @@
 			"description": "Luxe badmeubels, aangepast sanitair, functionele inrichting van sanitaire ruimte. technische Unie heeft een zeer breed assortiment",
 			"img": "assortment-sanitair.png",
 			"url": "#",
+			
 			"child": []
 
 		},
