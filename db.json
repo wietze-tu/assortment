@@ -13,12 +13,12 @@
 					"title": "Data, communicatie & (brand)beveiliging",
 					"img": "DB.jpg",
 					"url": "#",
-					"showtext": true,
+					"showAssortmentText": false,
 					"child": [{
 							"id": "1",
 							"title": "Actie, communicatie & (brand)beveiliging",
 							"img": "2147483342.jpg",
-							"showtext": false,
+							"showAssortmentText": false,
 							"child": [{
 									"id": "131",
 									"title": "Accessoire comunicatie",
