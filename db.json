@@ -17,7 +17,7 @@
 							"id": "1",
 							"title": "Actie, communicatie & (brand)beveiliging",
 							"img": "2147483342.jpg",
-							"showtext": true,
+							"showtext": false,
 							"child": [{
 									"id": "131",
 									"title": "Accessoire comunicatie",
