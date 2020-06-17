@@ -7,6 +7,7 @@
 			"img": "assortment-electrotechniek.png",
 			"url": "products",
 			"assortmentText": "assortmentOverviewElectroText", 
+			"showAssortmentText": true,
 			"child": [{
 					"id": "13",
 					"title": "Data, communicatie & (brand)beveiliging",
@@ -183,6 +184,7 @@
 			"img": "assortment-gereedschap.png",
 			"url": "#",
 			"assortmentText": "assortmentOverviewKabelText",
+			"showAssortmentText":true,
 			"child": [{
 					"id": "1",
 					"title": "Klimaatbeheersing",
